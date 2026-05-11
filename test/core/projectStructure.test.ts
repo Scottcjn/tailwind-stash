@@ -62,6 +62,7 @@ const requiredFiles = [
   "test/core/foldingProvider.test.ts",
   "test/core/placeholderCompletionProvider.test.ts",
   "test/core/placeholderMatcher.test.ts",
+  "test/core/utils.test.ts",
   "test/core/vscodeignore.test.ts",
   "test/webview/classEditor.test.tsx",
   "test/webview/entryCard.test.tsx",
